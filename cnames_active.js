@@ -1569,7 +1569,6 @@ var cnames_active = {
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
   "istanbul": "istanbuljs.github.io",
-  "itech": "2383ca0b-9b37-4b55-825d-ccf5875ca78f.cfargotunnel.com".
   "itemszop": "michaljaz.github.io/itemszop",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
@@ -2200,6 +2199,7 @@ var cnames_active = {
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
+  "nerdspace": "2383ca0b-9b37-4b55-825d-ccf5875ca78f.cfargotunnel.com",
   "nestcord": "globalartinc.github.io/nestcord",
   "nested-error": "ultirequiem.github.io/nested_error",
   "nestjs-toolkit": "globalartinc.github.io/nestjs-toolkit",
@@ -3540,6 +3540,7 @@ var cnames_active = {
   "viperhtml": "viperhtml.github.io",
   "virtual-clock": "dvdgiessen.github.io/virtual-clock",
   "virtual-keyboard": "virtual-keyboard-javascript.github.io",
+  "virtualbrowser": "2383ca0b-9b37-4b55-825d-ccf5875ca78f.cfargotunnel.com",
   "visual": "idescat.github.io/visual",
   "visualize-it": "kevinast.github.io/visualize-it",
   "visualized-execution": "codaisseur.github.io/visualized-execution",
