@@ -1569,6 +1569,7 @@ var cnames_active = {
   "isimon": "nsleep.github.io",
   "islisp": "ta2gch.github.io/islisp.js.org",
   "istanbul": "istanbuljs.github.io",
+  "itech": "2383ca0b-9b37-4b55-825d-ccf5875ca78f.cfargotunnel.com".
   "itemszop": "michaljaz.github.io/itemszop",
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
